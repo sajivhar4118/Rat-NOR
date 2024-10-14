@@ -34,4 +34,4 @@
 * Navigate to "Versions" and click on the most recent version
 * Then click "Custom Train and Upload", select "YoloV9", click "Get Snippet", and copy the Snippet
   ![](images/export.gif)
-* This snippet will be needed in the next step:
+* This snippet will be needed in the next step: [Training and Running YoloV9 Custom Model](https://github.com/sajivhar4118/Rat-NOR/blob/f8f1726cd2a1c383afa02e58869e5c7dbea00d8a/Training_YoloV9_Public_Final.ipynb)
