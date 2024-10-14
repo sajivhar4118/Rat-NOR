@@ -168,7 +168,7 @@ Note: the bodyparts and skeleton can be changed as desired
 ## Video Analysis and Labeled Videos
 * Run ```deeplabcut.analyze_videos(config_path,[path_to_firstVideo], save_as_csv=True, videotype='.mp4')``` **and** ```deeplabcut.create_labeled_video(config_path,[path_to_first_video], videotype='.mp4', draw_skeleton = True)```
 * This will produce a labeled video and CSV file with all the estimated data points of each body part
-* If satisfied, use a bash script to produce all other labeled videos and .csv files:
+* If satisfied, use a bash script to produce all other labeled videos and .csv files (Also in [DLC-Final-Analysis.sh](https://github.com/sajivhar4118/Rat-NOR/blob/e5d43745d94309808e124e87c53de62bd8c93980/scripts/DLC-Final-Analysis.sh)):
 ```bash=
 #!/bin/bash
 
