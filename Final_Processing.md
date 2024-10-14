@@ -1,7 +1,7 @@
 # Final Data Processing
 ## Check-Radius
 
-After dowloading the CSVs from the Google Colab Notebook, use the following code (also found in ________). This step combines your DLC and Roboflow data to check if the animal's nose is within a certain distance from each container in each frame.
+After downloading the CSVs from the Google Colab Notebook, use the following code (also found at [Check-Radius.py]([https://github.com/sajivhar4118/Rat-NOR/blob/main/scripts/Check-Radius.py](https://github.com/sajivhar4118/Rat-NOR/blob/00c20d77bf3dae2047fb13a4b6358e5353b4f542/scripts/Check-Radius.py))). This step combines your DLC and Roboflow data to check if the animal's nose is within a certain distance from each container in each frame.
 
 ```python=
 import csv
@@ -81,7 +81,7 @@ for i in range(1, 19):
     print(f"Analysis complete. Results saved to {output_csv}.")
 ```
 ## Time Calculation + Data Combining
-Then run the following code () to calculate the amount of time the animal spent inspecting each object in each video. THIS IS THE LAST STEP!
+Then run the following code (Also found [Final_Analysis.py](https://github.com/sajivhar4118/Rat-NOR/blob/00c20d77bf3dae2047fb13a4b6358e5353b4f542/scripts/Final-Analysis.py) to calculate the amount of time the animal spent inspecting each object in each video. THIS IS THE LAST STEP!
 
 ```python=
 import csv
