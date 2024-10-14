@@ -1,7 +1,7 @@
 # Final Data Processing
 ## Check-Radius
 
-After downloading the CSVs from the Google Colab Notebook, use the following code (also found at [Check-Radius.py]([https://github.com/sajivhar4118/Rat-NOR/blob/main/scripts/Check-Radius.py](https://github.com/sajivhar4118/Rat-NOR/blob/00c20d77bf3dae2047fb13a4b6358e5353b4f542/scripts/Check-Radius.py)). This step combines your DLC and Roboflow data to check if the animal's nose is within a certain distance from each container in each frame.
+After downloading the CSVs from the Google Colab Notebook, use the following code (Also found [Check-Radius.py](https://github.com/sajivhar4118/Rat-NOR/blob/00c20d77bf3dae2047fb13a4b6358e5353b4f542/scripts/Check-Radius.py). This step combines your DLC and Roboflow data to check if the animal's nose is within a certain distance from each container in each frame.
 
 ```python=
 import csv
