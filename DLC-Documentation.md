@@ -8,7 +8,7 @@
 * To launch DeepLabCut GUI, run the following commands:
 ```$ module load deeplabcut/2.2.0.2```
  ```$ python3 -m deeplabcut```
-    * These commands must be run everytime a new quest session is started
+    * These commands must be run every time a new quest session is started
  
 ## Creating a New Project:
 * Navigate to the "Manage Project" tab
@@ -146,7 +146,7 @@ Note: the bodyparts and skeleton can be changed as desired
 * THIS STEP IS TEDIOUS AND TAKES TIME. Grab some coffee, relax, and be patient!
 
 ## Training the Model
-* Create a training dataset using the following settings:![](https://s3.hedgedoc.org/demo/uploads/635e3737-5ebf-49ad-adda-b1fe53f8bec6.png)
+* Create a training dataset using the following settings:![](images/Train-Model-DLC.png)
 * After creating the dataset, close out of the GUI and terminal. 
 * Open the terminal again, and enter the following commands:
     ```$ module load deeplabcut/2.2.0.2```
