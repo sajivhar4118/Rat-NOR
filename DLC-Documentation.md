@@ -124,6 +124,7 @@ Note: the bodyparts and skeleton can be changed as desired
     * The number of frames extracted can be changed in the config file by changing "numframes2pick". 20 frames is optimal
 * Use the following settings in the "Extract Frames" tab of the GUI
 ![](images/Extract-Frames-DLC.png)
+![](images/Screen Recording 2024-10-14 123309.mp4)
 * Check for the directory /labeled-data, found within your project directory. 
     * /labeled-data/ should house folders for each video with each folder having 20 frames(images)
 
