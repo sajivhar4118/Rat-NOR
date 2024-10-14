@@ -123,7 +123,7 @@ Note: the bodyparts and skeleton can be changed as desired
 * We will need to extract a certain number of frames from each video for labeling
     * The number of frames extracted can be changed in the config file by changing "numframes2pick". 20 frames is optimal
 * Use the following settings in the "Extract Frames" tab of the GUI
-![](https://s3.hedgedoc.org/demo/uploads/e04d5e00-d40a-4ac3-b11e-db6a457d749a.png)
+![](images/Extract-Frames-DLC.png)
 * Check for the directory /labeled-data, found within your project directory. 
     * /labeled-data/ should house folders for each video with each folder having 20 frames(images)
 
