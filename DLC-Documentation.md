@@ -1,4 +1,4 @@
-# NOR DLC Documentation
+# Using DeepLabCut for Animal Tracking
 ## Running DLC through Quest
 * Download and use the FastX3 desktop client to connect to Quest
     * In-depth instructions can be found here: https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=1511
