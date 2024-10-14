@@ -1,4 +1,4 @@
-# ROBOFLOW Documentation
+# Using Roboflow to Track Objects
 ## Getting Started
 * Navigate to [](https://roboflow.com) and sign-in or create new account 
 * Create a workspace where all your projects will be saved (in this it will only be one project)
