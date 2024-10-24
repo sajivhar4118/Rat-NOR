@@ -1,5 +1,5 @@
 # Introduction
-The purpose of the following repositories is to provide guidance on tracking mice's behavior, particularly for Novel Object Recognition experiments (NOR experiments). NOR experiments can sometimes be very hard for the human eye to track; this program harnesses the powers of Deep Learning Models and custom code to automatically and more accurately track a rat's inspection of novel objects. 
+The purpose of the following repositories is to provide guidance on tracking mice's behavior, particularly for Novel Object Recognition (NOR) experiments. NOR experiments can sometimes be very hard for the human eye to track; this program harnesses the powers of Deep Learning Models and custom code to automatically and more accurately track a rat's inspection of novel objects. 
 
 # Specifications
 For the following code to work, here are some specifications:
