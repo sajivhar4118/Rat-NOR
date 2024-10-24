@@ -4,7 +4,7 @@ The purpose of the following repositories is to provide guidance on tracking mic
 # Specifications
 For the following code to work, here are some specifications:
 
-* It is highly recommended that you record the video from a "top-down view" with ONE ANIMAL PER VIDEO
+* It is highly recommended that you record the video from a "top-down view" with ONE ANIMAL PER VIDEO. Feel free to use simple editing software like WeVideo if you need to crop a video to ensure only one animal is present 
 * Use the same videos for all steps of the process. I highly recommend against using different sets of videos or newly cropped videos. It is very important to ensure the resolutions of the videos stay the same until the very end. 
 *  Make sure to modify programs to fit your needs, use the comments to help you
 *  Make some amazing discoveries!
