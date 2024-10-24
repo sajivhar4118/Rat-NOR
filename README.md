@@ -14,7 +14,7 @@ For the following code to work, here are some specifications:
 * After trial and error, DLC seems to be the best means for generating pose coordinates for rats. The same process can be used for mice, too
 
 * Use the following link ([DeepLabCut Documentation](https://github.com/sajivhar4118/Rat-NOR/blob/eb7543edfa4221fd62312f15e0a52ddd2293d5c0/DLC-Documentation.md)) to produce pose coordinates for all animals in your videos successfully.
-* For those without access to Northwestern Quest, ask your institution to download the most recent version of DLC. If you are doing it individually, here is the installation guide for DLC on your PC: 
+* For those without access to Northwestern Quest, ask your institution to download the most recent version of DLC. If you are doing it individually, here is the installation guide for DLC on your PC: [https://deeplabcut.github.io/DeepLabCut/docs/installation.html](https://deeplabcut.github.io/DeepLabCut/docs/installation.html)
     * If your institution provides services similar to Northwestern's Quest, feel free to do the first half of the process (GUI Heavy) on your PC and run the model on the super-computer.
 
 * Once Pose Coordinates have been produced, move on to the next step
